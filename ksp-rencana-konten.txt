@@ -1,6 +1,8 @@
 RENCANA KONTEN
 
-- JavaScript
+- Javascript
+  *ES6
+  *Framework Javascript
 - PHP Frameworks
 - Database
 - Edukasi 
