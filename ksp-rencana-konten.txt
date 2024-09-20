@@ -1,0 +1,6 @@
+RENCANA KONTEN
+
+- JavaScript
+- PHP Frameworks
+- Database
+- Edukasi 
