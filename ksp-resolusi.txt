@@ -2,5 +2,5 @@ KSP RESOLUSI
 -Konsisten untuk membuat jurnal 1x seminggu
 -Membuat web untuk belajar
 -Membuat catatan untuk belajar
--Membuat webShop frontend Backend
 -Konsisten mulai belajar masa depan
+-Membuat App VPN
